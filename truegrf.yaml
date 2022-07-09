@@ -1,7 +1,7 @@
-description: A new TrueGRF project
+description: first version of my OpenTTD extension mods - [Pomeranian] is series of mods that upgrades OTTD with West Pomeranian style buildings, vehicles and cargos
 grfid: f1bc2709
 license: CC-BY-NC-ND-4.0
-name: pomerania-industries
+name: pomeranian-industries
 type: industry
-url: https://github.com/PortowiecMK/pomerania-industries
+url: https://github.com/PortowiecMK/pomeranian-industries
 version: 6
